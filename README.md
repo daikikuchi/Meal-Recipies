@@ -1,4 +1,4 @@
-# Readable
+# Meal Recipies
 
 This is Udacimeal project using React and Reducer from Udaciy React Nanodegree course. This app can get recipies from https://www.edamam.com/ and display them. 
 
